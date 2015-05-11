@@ -1,0 +1,14 @@
+E:\Softwares\Softwares\Online Project\Projects\CloudSpongeWrapper\CloudSpongeWrapper\bin\Release\CloudSpongeWrapper.dll
+E:\Softwares\Softwares\Online Project\Projects\CloudSpongeWrapper\CloudSpongeWrapper\bin\Release\CloudSpongeWrapper.pdb
+E:\Softwares\Softwares\Online Project\Projects\CloudSpongeWrapper\CloudSpongeWrapper\bin\Release\Newtonsoft.Json.dll
+E:\Softwares\Softwares\Online Project\Projects\CloudSpongeWrapper\CloudSpongeWrapper\bin\Release\Newtonsoft.Json.xml
+E:\Softwares\Softwares\Online Project\Projects\CloudSpongeWrapper\CloudSpongeWrapper\obj\Release\CloudSpongeWrapper.dll
+E:\Softwares\Softwares\Online Project\Projects\CloudSpongeWrapper\CloudSpongeWrapper\obj\Release\CloudSpongeWrapper.pdb
+E:\Softwares\Softwares\Online Project\Projects\CloudSpongeWrapper\CloudSpongeWrapper\obj\Release\CloudSpongeWrapper.csprojResolveAssemblyReference.cache
+E:\Softwares\Softwares\Online Project\Projects\CloudSpongeWrapper - GitHub\CloudSpongeWrapper\bin\Release\CloudSpongeWrapper.dll
+E:\Softwares\Softwares\Online Project\Projects\CloudSpongeWrapper - GitHub\CloudSpongeWrapper\bin\Release\CloudSpongeWrapper.pdb
+E:\Softwares\Softwares\Online Project\Projects\CloudSpongeWrapper - GitHub\CloudSpongeWrapper\bin\Release\Newtonsoft.Json.dll
+E:\Softwares\Softwares\Online Project\Projects\CloudSpongeWrapper - GitHub\CloudSpongeWrapper\bin\Release\Newtonsoft.Json.xml
+E:\Softwares\Softwares\Online Project\Projects\CloudSpongeWrapper - GitHub\CloudSpongeWrapper\obj\Release\CloudSpongeWrapper.csprojResolveAssemblyReference.cache
+E:\Softwares\Softwares\Online Project\Projects\CloudSpongeWrapper - GitHub\CloudSpongeWrapper\obj\Release\CloudSpongeWrapper.dll
+E:\Softwares\Softwares\Online Project\Projects\CloudSpongeWrapper - GitHub\CloudSpongeWrapper\obj\Release\CloudSpongeWrapper.pdb
