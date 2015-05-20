@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,7 +16,7 @@ namespace CloudSpongeWrapper
 
     public enum ContactServiceConsent
     {
-        FACEBOOK,       //Facebook.com
+        //FACEBOOK,       //Facebook.com -- no longer supported
         LINKEDIN,       //LinkedIn.com
         GMAIL,          //Gmail.com
         YAHOO,          //Yahoo.com
