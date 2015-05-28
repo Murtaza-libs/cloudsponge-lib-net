@@ -49,6 +49,9 @@ Once you have the import-id from above function response
                 csEventsResponse = cloudsponge.GetEvents(importId);
 
                 isSuccess = csEventsResponse.IsError ? csEventsResponse.IsError : csEventsResponse.IsCompleted;
+                
+                //CloudSponge API updates event data after every second
+                Thread.Sleep(1000);
             }
 
             if (csEventsResponse.IsError)
